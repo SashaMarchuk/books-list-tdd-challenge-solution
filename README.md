@@ -21,8 +21,8 @@ The application displays a list of books fetched from an API and allows users to
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/SashaMarchuk/Reaktivate-TDD---challenge-1-sample-begin-.git
+    cd Reaktivate-TDD---challenge-1-sample-begin-
     ```
 2.  **Install dependencies:**
     ```bash
